@@ -4,6 +4,7 @@ CONTENTS OF THIS FILE
 ---------------------
 * Edits for branch1
     * Add file add_file.rb
+    * add file add_file2.rb
  * Introduction
  * Requirements
  * Recommended modules
